@@ -1,4 +1,4 @@
-let socket = io("http://192.168.50.46:3000", {
+let socket = io("http://localhost:3000", {
     cors: {
         origin: "*"
     }
